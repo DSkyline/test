@@ -5,5 +5,4 @@ public class MainClass {
 		System.err.println("New line added");
 		System.err.println("Third line added");
 	}
-
 }
